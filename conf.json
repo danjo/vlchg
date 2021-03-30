@@ -1,0 +1,31 @@
+{
+  "vlchg": [
+    {
+      "range": [
+        "06:00",
+        "22:00"
+      ],
+      "vol": 66,
+      "toast": false,
+      "toastparam": {}
+    },
+    {
+      "range": [
+        "00:00",
+        "05:59"
+      ],
+      "vol": 44,
+      "toast": true,
+      "toastparam": {}
+    },
+    {
+      "range": [
+        "22:01",
+        "23:59"
+      ],
+      "vol": 44,
+      "toast": true,
+      "toastparam": {}
+    }
+  ]
+}
